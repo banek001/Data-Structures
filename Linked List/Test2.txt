@@ -1,0 +1,55 @@
+Script started on Fri 23 Oct 2020 11:01:56 PM PDT
+]0;banek001@empress:~/CS311Progs/HWPrograms/forHW3[?1034h[banek001@empress forHW3]$ eximacs slist.cpllist.cp[6Pcd forHW HWHWProgramsCS311Progexit./a.oug++ HW3P2client.cpp slist.cpp llist.cpp
+]0;banek001@empress:~/CS311Progs/HWPrograms/forHW3[banek001@empress forHW3]$ ./a.out 
+... in llist constructor...
+slist constructor:
+Step 1 addFront
+Step 2 addRear
+Step 3
+[ 4 6 7 8 ]
+Step 4
+you are inside else and the pos is: 2
+you are inside If
+Element was found in: 2
+Found 6 in location 2
+Step 5 replace 6
+Step 6
+[ 4 0 7 8 ]
+Step 7
+you are inside else and the pos is: 2
+you are inside else and the pos is: 3
+you are inside else and the pos is: 4
+you are inside If
+Element was found in: 4
+Found 8 in location 4
+Step 8 replace 8
+Step 9
+[ 4 0 7 2 ]
+Step 10
+you are inside else and the pos is: 2
+you are inside else and the pos is: 3
+you are inside else and the pos is: 4
+you are inside else and the pos is: 5
+Element was not found!
+Found 5 in location 4
+Step 11 replace 7
+ERROR: Bad position was given
+.... in llist destructor...
+---- First Part testing done ----- 
+... in llist constructor...
+slist constructor:
+... in llist constructor...
+slist constructor:
+true
+false
+false
+true
+false
+false
+false
+.... in llist destructor...
+.... in llist destructor...
+]0;banek001@empress:~/CS311Progs/HWPrograms/forHW3[banek001@empress forHW3]$ exit
+exit
+
+Script done on Fri 23 Oct 2020 11:02:14 PM PDT

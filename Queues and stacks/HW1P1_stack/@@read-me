@@ -1,0 +1,19 @@
+My stack program does the following
+
+Test1------------------------------------
+
+MENU: These are your options: 
+
+   (1) Push an element   
+   (2) Display the entire stack  
+   (3) Pop the top element
+   (4) Display the top element
+   (5) Check to see if is it empty
+   (6) Check to see if is it full
+   (7) Clear the entire stack
+    Enter ( 0 ) to quit 
+
+
+test2----------------------------------------
+
+takes a postfix expression and computes. 

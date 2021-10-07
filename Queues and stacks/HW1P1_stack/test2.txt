@@ -1,0 +1,57 @@
+Script started on Sun 13 Sep 2020 07:00:38 PM PDT
+]0;banek001@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[?1034h[banek001@empress HW1P1_stack]$ g++ stack.cpp client1.cpp
+]0;banek001@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[banek001@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 34+
+------------------------------
+The Top Element is: 7
+STACK:------------------------
+The contents are: [ empty ]
+------------------------------
+]0;banek001@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[banek001@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 345+*
+------------------------------
+The Top Element is: 27
+STACK:------------------------
+The contents are: [ empty ]
+------------------------------
+]0;banek001@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[banek001@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 722+-
+------------------------------
+The Top Element is: 3
+STACK:------------------------
+The contents are: [ empty ]
+------------------------------
+]0;banek001@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[banek001@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 34+56++
+------------------------------
+The Top Element is: 18
+STACK:------------------------
+The contents are: [ empty ]
+------------------------------
+]0;banek001@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[banek001@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 12+34*45+-+
+------------------------------
+The Top Element is: 6
+STACK:------------------------
+The contents are: [ empty ]
+------------------------------
+]0;banek001@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[banek001@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 1234567891234
+ERROR: Too many Operands]0;banek001@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[banek001@empress HW1P1_stack]$ ./a.out
+type a postfix expression: +
+ERROR: Too Few Operands]0;banek001@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[banek001@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 3+
+ERROR: Too Few Operands]0;banek001@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[banek001@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 3#
+ERROR: Invalid Input]0;banek001@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[banek001@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 2345+
+------------------------------
+The Top Element is: 9
+STACK:------------------------
+The contents are: 3
+2
+------------------------------
+]0;banek001@empress:~/CS311Progs/HWPrograms/forHW1/HW1P1_stack[banek001@empress HW1P1_stack]$ exit
+exit
+
+Script done on Sun 13 Sep 2020 07:02:26 PM PDT

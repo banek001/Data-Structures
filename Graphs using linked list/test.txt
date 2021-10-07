@@ -1,0 +1,77 @@
+Script started on Sun 15 Nov 2020 04:14:58 PM PST
+]0;banek001@empress:~/CS311Progs/HWPrograms/forHW6[?1034h[banek001@empress forHW6]$ exg++ hw6client.cpp dgraph.cpp slist.cpp llist.cpp
+]0;banek001@empress:~/CS311Progs/HWPrograms/forHW6[banek001@empress forHW6]$ ./a.out 
+Enter a file name: table.txt
+The number of edges are: 12
+VName Out Visit Adjacent
+------------------------
+A      2    0      [ B F ]
+B      2    0      [ C G ]
+C      1    0      [ H ]
+D      0    0      [empty]
+E      0    0      [empty]
+F      2    0      [ I E ]
+G      0    0      [empty]
+H      2    0      [ G I ]
+I      3    0      [ A G E ]
+Enter 1 to stop or press other integer to continue!
+0
+Enter the vertex name: A
+
+2 edges comes out to: [ B F ]
+Enter 1 to stop or press other integer to continue!
+0
+Enter the vertex name: B
+
+2 edges comes out to: [ C G ]
+Enter 1 to stop or press other integer to continue!
+0
+Enter the vertex name: C
+
+1 edges comes out to: [ H ]
+Enter 1 to stop or press other integer to continue!
+0
+Enter the vertex name: D
+
+0 edges comes out to: [empty]
+Enter 1 to stop or press other integer to continue!
+0
+Enter the vertex name: E
+
+0 edges comes out to: [empty]
+Enter 1 to stop or press other integer to continue!
+0
+Enter the vertex name: F
+
+2 edges comes out to: [ I E ]
+Enter 1 to stop or press other integer to continue!
+0
+Enter the vertex name: G
+
+0 edges comes out to: [empty]
+Enter 1 to stop or press other integer to continue!
+0
+Enter the vertex name: H
+
+2 edges comes out to: [ G I ]
+Enter 1 to stop or press other integer to continue!
+0
+Enter the vertex name: I
+
+3 edges comes out to: [ A G E ]
+Enter 1 to stop or press other integer to continue!
+0
+Enter the vertex name: Z
+
+ ERROR: No such Vertex! 
+Enter 1 to stop or press other integer to continue!
+0
+Enter the vertex name: S
+
+ ERROR: No such Vertex! 
+Enter 1 to stop or press other integer to continue!
+1
+]0;banek001@empress:~/CS311Progs/HWPrograms/forHW6[banek001@empress forHW6]$ exit
+exit
+
+Script done on Sun 15 Nov 2020 04:16:41 PM PST
