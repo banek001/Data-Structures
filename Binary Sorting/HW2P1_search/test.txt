@@ -1,0 +1,40 @@
+Script started on Sat 26 Sep 2020 11:04:29 PM PDT
+]0;banek001@empress:~/CS311Progs/HWPrograms/forHW2/HW2P1_search[?1034h[banek001@empress HW2P1_search]$ g++ binsearch.cpp
+]0;banek001@empress:~/CS311Progs/HWPrograms/forHW2/HW2P1_search[banek001@empress HW2P1_search]$ ./a.out 
+What do you want to look for? 1
+comparing against an element in slot 4
+comparing against an element in slot 1
+Found it in position 1
+]0;banek001@empress:~/CS311Progs/HWPrograms/forHW2/HW2P1_search[banek001@empress HW2P1_search]$ ./a.out 
+What do you want to look for? 19
+comparing against an element in slot 4
+comparing against an element in slot 7
+comparing against an element in slot 8
+Found it in position 10
+]0;banek001@empress:~/CS311Progs/HWPrograms/forHW2/HW2P1_search[banek001@empress HW2P1_search]$ ./a.out 
+What do you want to look for? 5
+comparing against an element in slot 4
+comparing against an element in slot 1
+comparing against an element in slot 2
+Found it in position 3
+]0;banek001@empress:~/CS311Progs/HWPrograms/forHW2/HW2P1_search[banek001@empress HW2P1_search]$ ./a.out 
+What do you want to look for? 17
+comparing against an element in slot 4
+comparing against an element in slot 7
+comparing against an element in slot 8
+Found it in position 9
+]0;banek001@empress:~/CS311Progs/HWPrograms/forHW2/HW2P1_search[banek001@empress HW2P1_search]$ ./a.out 
+What do you want to look for? 21
+comparing against an element in slot 4
+comparing against an element in slot 7
+comparing against an element in slot 8
+Element not found
+]0;banek001@empress:~/CS311Progs/HWPrograms/forHW2/HW2P1_search[banek001@empress HW2P1_search]$ ./a.out 
+What do you want to look for? 0
+comparing against an element in slot 4
+comparing against an element in slot 1
+Element not found
+]0;banek001@empress:~/CS311Progs/HWPrograms/forHW2/HW2P1_search[banek001@empress HW2P1_search]$ exit
+exit
+
+Script done on Sat 26 Sep 2020 11:05:27 PM PDT
