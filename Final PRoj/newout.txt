@@ -1,0 +1,126 @@
+Cop ID: 103
+Cop Name: david Micher
+Cop Position: High_Level
+Cop stars: Five_Star_Cop
+Record: Untrustworthy
+ Cop ID: 153
+Cop Name: justin Bieber
+Cop Position: Mid_Level
+Cop stars: Three_Star_Cop
+Record: Excellent
+ Cop ID: 254
+Cop Name: castillo Zuckerberg
+Cop Position: Second_Level
+Cop stars: Two_Star_Cop
+Record: Excellent
+ Cop ID: 154
+Cop Name: ariana Grande
+Cop Position: Mid_Level
+Cop stars: Three_Star_Cop
+Record: Good
+ Cop ID: 253
+Cop Name: lanier jobs
+Cop Position: Second_Level
+Cop stars: Two_Star_COp
+Record: good
+ Cop ID: 255
+Cop Name: pearl Black
+Cop Position: Second_Level
+Cop stars: Two_Star_Cop
+Record: Best
+ Cop ID: 102
+Cop Name: rika Zhang
+Cop Position: High_Level
+Cop stars: Five_Star_Cop
+Record: Excellent
+ Cop ID: 105
+Cop Name: broadley Booker
+Cop Position: High_Level
+Cop stars: Five_Star_Cop
+Record: Good
+ Cop ID: 251
+Cop Name: jeam Bean
+Cop Position: Second_Level
+Cop stars: two_Star_Cop
+Record: decent
+ Cop ID: 201
+Cop Name: suziki Kims
+Cop Position: Fourth_Level
+Cop stars: Four_Star_Cop
+Record: Excellent
+ Cop ID: 252
+Cop Name: jearl Pint
+Cop Position: Second_Level
+Cop stars: Two_Star_Cop
+Record: Untrustworthy
+ Cop ID: 152
+Cop Name: honda Hits
+Cop Position: Mid_Level
+Cop stars: Three_Star_Cop
+Record: Decent
+ Cop ID: 503
+Cop Name: kathy Pout
+Cop Position: First_Level
+Cop stars: One_Star_Cop
+Record: Best
+ Cop ID: 505
+Cop Name: jung Kook
+Cop Position: First_Level
+Cop stars: One_Star_Cop
+Record: good
+ Cop ID: 502
+Cop Name: kunal Banekar
+Cop Position: Higher_Level
+Cop stars: Five_Star_Cop
+Record: Excellent
+ Cop ID: 204
+Cop Name: peter England
+Cop Position: Fourth_Level
+Cop stars: Four_Star_Cop
+Record: Good
+ Cop ID: 501
+Cop Name: mary Cortez
+Cop Position: First_Level
+Cop stars: One_Star_Cop
+Record: Untrustworthy
+ Cop ID: 101
+Cop Name: steve Bradley
+Cop Position: High_Level
+Cop stars: Five_Star_Cop
+Record: decent
+ Cop ID: 203
+Cop Name: king Kush
+Cop Position: Fourth_Level
+Cop stars: Four_Star_Cop
+Record: decent
+ Cop ID: 205
+Cop Name: aston Martin
+Cop Position: Fourth_Level
+Cop stars: Four_Star_Cop
+Record: Best
+ Cop ID: 155
+Cop Name: deepika Padukone
+Cop Position: Mid_Level
+Cop stars: Three_Star_Cop
+Record: Best
+ Cop ID: 104
+Cop Name: hArry Potter
+Cop Position: High_Level
+Cop stars: Five_Star_Cop
+Record: Best
+ Cop ID: 202
+Cop Name: kizibasu hopiin
+Cop Position: Fourth_Level
+Cop stars: Four_Star_Cop
+Record: Untrustworthy
+ Cop ID: 504
+Cop Name: bob Builder
+Cop Position: First_Level
+Cop stars: One_Star_Cop
+Record: decent
+ Cop ID: 151
+Cop Name: lambo Ghini
+Cop Position: Mid_Level
+Cop stars: Three_Star_Cop
+Record: Untrustworthy
+ 

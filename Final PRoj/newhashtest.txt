@@ -1,0 +1,569 @@
+Script started on Sat 19 Dec 2020 01:28:50 AM PST
+]0;banek001@empress:~/CS311Progs/HWPrograms/forPROJ[?1034h[banek001@empress forPROJ]$ ex./a.oug++ projclient1.cpp htable.cpp llist.cpp elem.cpp slist.cpp
+]0;banek001@empress:~/CS311Progs/HWPrograms/forPROJ[banek001@empress forPROJ]$ g++ projclient1.cpp htable.cpp llist.cpp elem.cpp slist.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit./a.out 
+What is the input file?inputfile
+MENU------------------ :
+1. Load data from a file
+2. Display the table
+3. Search using a key
+4. Add a new entry
+5. Delete an entry
+6. Save data to a file
+7. Exit
+==>1
+loaded data...
+MENU------------------ :
+1. Load data from a file
+2. Display the table
+3. Search using a key
+4. Add a new entry
+5. Delete an entry
+6. Save data to a file
+7. Exit
+==>2
+0:[empty]
+1:[ Cop ID: 103
+Cop Name: david Micher
+Cop Position: High_Level
+Cop stars: Five_Star_Cop
+Record: Untrustworthy
+ ]
+2:[ Cop ID: 153
+Cop Name: justin Bieber
+Cop Position: Mid_Level
+Cop stars: Three_Star_Cop
+Record: Excellent
+ Cop ID: 254
+Cop Name: castillo Zuckerberg
+Cop Position: Second_Level
+Cop stars: Two_Star_Cop
+Record: Excellent
+ ]
+3:[ Cop ID: 154
+Cop Name: ariana Grande
+Cop Position: Mid_Level
+Cop stars: Three_Star_Cop
+Record: Good
+ Cop ID: 253
+Cop Name: lanier jobs
+Cop Position: Second_Level
+Cop stars: Two_Star_COp
+Record: good
+ ]
+4:[empty]
+5:[empty]
+6:[empty]
+7:[empty]
+8:[empty]
+9:[ Cop ID: 255
+Cop Name: pearl Black
+Cop Position: Second_Level
+Cop stars: Two_Star_Cop
+Record: Best
+ ]
+10:[empty]
+11:[empty]
+12:[ Cop ID: 102
+Cop Name: rika Zhang
+Cop Position: High_Level
+Cop stars: Five_Star_Cop
+Record: Excellent
+ ]
+13:[ Cop ID: 105
+Cop Name: broadley Booker
+Cop Position: High_Level
+Cop stars: Five_Star_Cop
+Record: Good
+ ]
+14:[empty]
+15:[empty]
+16:[ Cop ID: 251
+Cop Name: jeam Bean
+Cop Position: Second_Level
+Cop stars: two_Star_Cop
+Record: decent
+ ]
+17:[ Cop ID: 201
+Cop Name: suziki Kims
+Cop Position: Fourth_Level
+Cop stars: Four_Star_Cop
+Record: Excellent
+ Cop ID: 252
+Cop Name: jearl Pint
+Cop Position: Second_Level
+Cop stars: Two_Star_Cop
+Record: Untrustworthy
+ ]
+18:[ Cop ID: 152
+Cop Name: honda Hits
+Cop Position: Mid_Level
+Cop stars: Three_Star_Cop
+Record: Decent
+ Cop ID: 503
+Cop Name: kathy Pout
+Cop Position: First_Level
+Cop stars: One_Star_Cop
+Record: Best
+ ]
+19:[empty]
+20:[ Cop ID: 505
+Cop Name: jung Kook
+Cop Position: First_Level
+Cop stars: One_Star_Cop
+Record: good
+ ]
+21:[empty]
+22:[empty]
+23:[empty]
+24:[ Cop ID: 204
+Cop Name: peter England
+Cop Position: Fourth_Level
+Cop stars: Four_Star_Cop
+Record: Good
+ ]
+25:[empty]
+26:[ Cop ID: 501
+Cop Name: mary Cortez
+Cop Position: First_Level
+Cop stars: One_Star_Cop
+Record: Untrustworthy
+ ]
+27:[ Cop ID: 101
+Cop Name: steve Bradley
+Cop Position: High_Level
+Cop stars: Five_Star_Cop
+Record: decent
+ Cop ID: 203
+Cop Name: king Kush
+Cop Position: Fourth_Level
+Cop stars: Four_Star_Cop
+Record: decent
+ ]
+28:[ Cop ID: 205
+Cop Name: aston Martin
+Cop Position: Fourth_Level
+Cop stars: Four_Star_Cop
+Record: Best
+ ]
+29:[ Cop ID: 155
+Cop Name: deepika Padukone
+Cop Position: Mid_Level
+Cop stars: Three_Star_Cop
+Record: Best
+ ]
+30:[empty]
+31:[ Cop ID: 104
+Cop Name: hArry Potter
+Cop Position: High_Level
+Cop stars: Five_Star_Cop
+Record: Best
+ ]
+32:[empty]
+33:[empty]
+34:[empty]
+35:[empty]
+36:[empty]
+37:[empty]
+38:[ Cop ID: 202
+Cop Name: kizibasu hopiin
+Cop Position: Fourth_Level
+Cop stars: Four_Star_Cop
+Record: Untrustworthy
+ ]
+39:[empty]
+40:[ Cop ID: 504
+Cop Name: bob Builder
+Cop Position: First_Level
+Cop stars: One_Star_Cop
+Record: decent
+ ]
+41:[ Cop ID: 151
+Cop Name: lambo Ghini
+Cop Position: Mid_Level
+Cop stars: Three_Star_Cop
+Record: Untrustworthy
+ ]
+42:[empty]
+43:[empty]
+44:[empty]
+45:[ Cop ID: 502
+Cop Name: john Cena
+Cop Position: First_Level
+Cop stars: One_Star_Cop
+Record: Excellent
+ ]
+46:[empty]
+MENU------------------ :
+1. Load data from a file
+2. Display the table
+3. Search using a key
+4. Add a new entry
+5. Delete an entry
+6. Save data to a file
+7. Exit
+==>3
+Enter key to look for: 203
+king
+Found Cop ID: 203
+Cop Name: king Kush
+Cop Position: Fourth_Level
+Cop stars: Four_Star_Cop
+Record: decent
+
+MENU------------------ :
+1. Load data from a file
+2. Display the table
+3. Search using a key
+4. Add a new entry
+5. Delete an entry
+6. Save data to a file
+7. Exit
+==>3
+Enter key to look for: 101
+steve
+Found Cop ID: 101
+Cop Name: steve Bradley
+Cop Position: High_Level
+Cop stars: Five_Star_Cop
+Record: decent
+
+MENU------------------ :
+1. Load data from a file
+2. Display the table
+3. Search using a key
+4. Add a new entry
+5. Delete an entry
+6. Save data to a file
+7. Exit
+==>2
+0:[empty]
+1:[ Cop ID: 103
+Cop Name: david Micher
+Cop Position: High_Level
+Cop stars: Five_Star_Cop
+Record: Untrustworthy
+ ]
+2:[ Cop ID: 153
+Cop Name: justin Bieber
+Cop Position: Mid_Level
+Cop stars: Three_Star_Cop
+Record: Excellent
+ Cop ID: 254
+Cop Name: castillo Zuckerberg
+Cop Position: Second_Level
+Cop stars: Two_Star_Cop
+Record: Excellent
+ ]
+3:[ Cop ID: 154
+Cop Name: ariana Grande
+Cop Position: Mid_Level
+Cop stars: Three_Star_Cop
+Record: Good
+ Cop ID: 253
+Cop Name: lanier jobs
+Cop Position: Second_Level
+Cop stars: Two_Star_COp
+Record: good
+ ]
+4:[empty]
+5:[empty]
+6:[empty]
+7:[empty]
+8:[empty]
+9:[ Cop ID: 255
+Cop Name: pearl Black
+Cop Position: Second_Level
+Cop stars: Two_Star_Cop
+Record: Best
+ ]
+10:[empty]
+11:[empty]
+12:[ Cop ID: 102
+Cop Name: rika Zhang
+Cop Position: High_Level
+Cop stars: Five_Star_Cop
+Record: Excellent
+ ]
+13:[ Cop ID: 105
+Cop Name: broadley Booker
+Cop Position: High_Level
+Cop stars: Five_Star_Cop
+Record: Good
+ ]
+14:[empty]
+15:[empty]
+16:[ Cop ID: 251
+Cop Name: jeam Bean
+Cop Position: Second_Level
+Cop stars: two_Star_Cop
+Record: decent
+ ]
+17:[ Cop ID: 201
+Cop Name: suziki Kims
+Cop Position: Fourth_Level
+Cop stars: Four_Star_Cop
+Record: Excellent
+ Cop ID: 252
+Cop Name: jearl Pint
+Cop Position: Second_Level
+Cop stars: Two_Star_Cop
+Record: Untrustworthy
+ ]
+18:[ Cop ID: 152
+Cop Name: honda Hits
+Cop Position: Mid_Level
+Cop stars: Three_Star_Cop
+Record: Decent
+ Cop ID: 503
+Cop Name: kathy Pout
+Cop Position: First_Level
+Cop stars: One_Star_Cop
+Record: Best
+ ]
+19:[empty]
+20:[ Cop ID: 505
+Cop Name: jung Kook
+Cop Position: First_Level
+Cop stars: One_Star_Cop
+Record: good
+ ]
+21:[empty]
+22:[empty]
+23:[empty]
+24:[ Cop ID: 204
+Cop Name: peter England
+Cop Position: Fourth_Level
+Cop stars: Four_Star_Cop
+Record: Good
+ ]
+25:[empty]
+26:[ Cop ID: 501
+Cop Name: mary Cortez
+Cop Position: First_Level
+Cop stars: One_Star_Cop
+Record: Untrustworthy
+ ]
+27:[ Cop ID: 101
+Cop Name: steve Bradley
+Cop Position: High_Level
+Cop stars: Five_Star_Cop
+Record: decent
+ Cop ID: 203
+Cop Name: king Kush
+Cop Position: Fourth_Level
+Cop stars: Four_Star_Cop
+Record: decent
+ ]
+28:[ Cop ID: 205
+Cop Name: aston Martin
+Cop Position: Fourth_Level
+Cop stars: Four_Star_Cop
+Record: Best
+ ]
+29:[ Cop ID: 155
+Cop Name: deepika Padukone
+Cop Position: Mid_Level
+Cop stars: Three_Star_Cop
+Record: Best
+ ]
+30:[empty]
+31:[ Cop ID: 104
+Cop Name: hArry Potter
+Cop Position: High_Level
+Cop stars: Five_Star_Cop
+Record: Best
+ ]
+32:[empty]
+33:[empty]
+34:[empty]
+35:[empty]
+36:[empty]
+37:[empty]
+38:[ Cop ID: 202
+Cop Name: kizibasu hopiin
+Cop Position: Fourth_Level
+Cop stars: Four_Star_Cop
+Record: Untrustworthy
+ ]
+39:[empty]
+40:[ Cop ID: 504
+Cop Name: bob Builder
+Cop Position: First_Level
+Cop stars: One_Star_Cop
+Record: decent
+ ]
+41:[ Cop ID: 151
+Cop Name: lambo Ghini
+Cop Position: Mid_Level
+Cop stars: Three_Star_Cop
+Record: Untrustworthy
+ ]
+42:[empty]
+43:[empty]
+44:[empty]
+45:[ Cop ID: 502
+Cop Name: john Cena
+Cop Position: First_Level
+Cop stars: One_Star_Cop
+Record: Excellent
+ ]
+46:[empty]
+MENU------------------ :
+1. Load data from a file
+2. Display the table
+3. Search using a key
+4. Add a new entry
+5. Delete an entry
+6. Save data to a file
+7. Exit
+==>4
+Enter a key: 502
+Enter a name: Kunakunal
+Enter a surname: Banekar
+Enter a position: Higher_Level
+Enter satrs: Five_Star_Cop
+Enter a record: Excellent
+In Slot: 23  added.
+MENU------------------ :
+1. Load data from a file
+2. Display the table
+3. Search using a key
+4. Add a new entry
+5. Delete an entry
+6. Save data to a file
+7. Exit
+==>3
+Enter key to look for: 502
+john
+Found Cop ID: 502
+Cop Name: john Cena
+Cop Position: First_Level
+Cop stars: One_Star_Cop
+Record: Excellent
+
+MENU------------------ :
+1. Load data from a file
+2. Display the table
+3. Search using a key
+4. Add a new entry
+5. Delete an entry
+6. Save data to a file
+7. Exit
+==>3
+Enter key to look for: 502
+kunal
+Found Cop ID: 502
+Cop Name: kunal Banekar
+Cop Position: Higher_Level
+Cop stars: Five_Star_Cop
+Record: Excellent
+
+MENU------------------ :
+1. Load data from a file
+2. Display the table
+3. Search using a key
+4. Add a new entry
+5. Delete an entry
+6. Save data to a file
+7. Exit
+==>3
+Enter key to look for: 999
+King
+Not found
+MENU------------------ :
+1. Load data from a file
+2. Display the table
+3. Search using a key
+4. Add a new entry
+5. Delete an entry
+6. Save data to a file
+7. Exit
+==>5
+Enter a key: 502
+Enter a name: john
+Element was found in: 1
+In Slot: 45  deleted.
+MENU------------------ :
+1. Load data from a file
+2. Display the table
+3. Search using a key
+4. Add a new entry
+5. Delete an entry
+6. Save data to a file
+7. Exit
+==>5
+Enter a key: 999
+Enter a name: jim
+Element was not found!
+ Id Not Found! 
+MENU------------------ :
+1. Load data from a file
+2. Display the table
+3. Search using a key
+4. Add a new entry
+5. Delete an entry
+6. Save data to a file
+7. Exit
+==>6
+0:[empty]
+1:[ ]
+2:[ ]
+3:[ ]
+4:[empty]
+5:[empty]
+6:[empty]
+7:[empty]
+8:[empty]
+9:[ ]
+10:[empty]
+11:[empty]
+12:[ ]
+13:[ ]
+14:[empty]
+15:[empty]
+16:[ ]
+17:[ ]
+18:[ ]
+19:[empty]
+20:[ ]
+21:[empty]
+22:[empty]
+23:[ ]
+24:[ ]
+25:[empty]
+26:[ ]
+27:[ ]
+28:[ ]
+29:[ ]
+30:[empty]
+31:[ ]
+32:[empty]
+33:[empty]
+34:[empty]
+35:[empty]
+36:[empty]
+37:[empty]
+38:[ ]
+39:[empty]
+40:[ ]
+41:[ ]
+42:[empty]
+43:[empty]
+44:[empty]
+45:[empty]
+46:[empty]
+Sent data to newout
+MENU------------------ :
+1. Load data from a file
+2. Display the table
+3. Search using a key
+4. Add a new entry
+5. Delete an entry
+6. Save data to a file
+7. Exit
+==>7
+No action
+]0;banek001@empress:~/CS311Progs/HWPrograms/forPROJ[banek001@empress forPROJ]$ exit
+exit
+
+Script done on Sat 19 Dec 2020 01:31:32 AM PST
